@@ -1,4 +1,4 @@
-# netflix-clone
+# Netflix-Clone
 This project is a simply frontend clone of Netflix. It is created using React. It uses The MovieDB(TMDB) Api to search for movies and display details.
 
 # PACKAGES I USED :
